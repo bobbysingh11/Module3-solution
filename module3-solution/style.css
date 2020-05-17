@@ -93,6 +93,7 @@ body{
 	padding:5px;
 	margin-bottom:20px;
 	border-radius:5px;
+	text-decoration:none;
 }
 #top a:hover{
 	background-color:maroon;
