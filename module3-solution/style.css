@@ -69,9 +69,12 @@ body{
 	padding:5px;
 	margin-bottom:20px;
 	border-radius:5px;
+	display:block;
+	text-decoration:none;
 }
 #top a:hover{
-	background-color:maroon;
+	text-decoration:none;
+	background-color:red;
 	border-shadow:0px 0px 30px 10px #f20548;
 	transition:0.8s;
 }
@@ -93,10 +96,12 @@ body{
 	padding:5px;
 	margin-bottom:20px;
 	border-radius:5px;
+	display:block;
 	text-decoration:none;
 }
 #top a:hover{
-	background-color:maroon;
+	text-decoration:none;
+	background-color:red;
 	border-shadow:0px 0px 30px 10px #f20548;
 	transition:0.8s;
 }
